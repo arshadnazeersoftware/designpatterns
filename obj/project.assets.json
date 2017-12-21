@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arsha\\Google Drive\\programs\\languages\\c#\\sourcecode\\extensionmethods\\extensionmethods.csproj",
+      "projectUniqueName": "c:\\Users\\arsha\\Google Drive\\programs\\languages\\c#\\sourcecode\\extensionmethods\\extensionmethods.csproj",
       "projectName": "extensionmethods",
-      "projectPath": "C:\\Users\\arsha\\Google Drive\\programs\\languages\\c#\\sourcecode\\extensionmethods\\extensionmethods.csproj",
+      "projectPath": "c:\\Users\\arsha\\Google Drive\\programs\\languages\\c#\\sourcecode\\extensionmethods\\extensionmethods.csproj",
       "packagesPath": "C:\\Users\\arsha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arsha\\Google Drive\\programs\\languages\\c#\\sourcecode\\extensionmethods\\obj\\",
+      "outputPath": "c:\\Users\\arsha\\Google Drive\\programs\\languages\\c#\\sourcecode\\extensionmethods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
